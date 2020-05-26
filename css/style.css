@@ -1,0 +1,15 @@
+.calculator {
+font-size: 28px;
+width: 10em;
+}
+button {
+border: 0;
+background:#e6f2ff;
+color: #6cacc5;
+float: left;
+font-size: 28px;
+margin: 0.25em;
+width: 2em;
+height: 2em;
+transition: all 0.5s;
+}
